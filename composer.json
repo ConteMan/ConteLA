@@ -14,7 +14,7 @@
         "encore/laravel-admin": "1.7.*",
         "fideloper/proxy": "~4.0",
         "fourn/admin-config": "^1.0",
-        "guzzlehttp/guzzle": "6.3.*",
+        "guzzlehttp/guzzle": "6.5.*",
         "jaeger/querylist": "^4.0",
         "james.xue/laravel-admin-env": "^1.1",
         "laravel-admin-ext/backup": "^1.0",
